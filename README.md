@@ -1,2 +1,2 @@
 # project
-New Project
+PHP project

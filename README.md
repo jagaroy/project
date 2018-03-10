@@ -1,2 +1,2 @@
 # project
-PHP project
+PHP project.

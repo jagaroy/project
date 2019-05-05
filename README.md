@@ -1,2 +1,2 @@
 # project
-PHP project.
+Data validator library in php.
